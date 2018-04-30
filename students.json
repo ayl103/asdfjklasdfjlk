@@ -780,19 +780,20 @@
       "twitter": "",
       "other": ""
     },
-    "aboutme": [""],
+    "aboutme": ["Tushar is a User Experience and Game designer from India. "],
     "project": {
-      "title": "",
+      "title": "Convergence",
       "website": "",
-      "thesis-category": [""],
-      "coverImage": "",
-      "image": [""],
-      "tags": [""],
-      "description": [""],
-      "studio-professor-1": "",
-      "writing-professor-1": "",
-      "studio-professor-2": "",
-      "writing-professor-2": ""
+      "thesis-category": ["Playful Experiences", "Storytelling/Film"],
+      "coverImage": "coverImage.png",
+      "image": ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg"],
+      "video": ["https://www.youtube.com/embed/aMokr-rQG0o"],
+      "tags": ["Games", "Storytelling", "Experience Design"],
+      "description": ["CONVERGENCE is a narrative game based on the Buddhist philosophy of the ‘Five Elements of the Universe’. The goal is to engage the player in the depths of the philosophy and its meaning through creative and challenging game-play that links to the philosophy on a subconscious level."],
+      "studio-professor-1": "Melanie Crean",
+      "writing-professor-1": "Mattie Brice",
+      "studio-professor-2": "John Sharp",
+      "writing-professor-2": "Mark Stafford"
     }
   },
   {
