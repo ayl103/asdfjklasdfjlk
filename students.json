@@ -997,46 +997,19 @@
       "twitter": "",
       "other": ""
     },
-    "aboutme": [""],
+    "aboutme": ["I'm a creative designer focused on experience design and speculative design."],
     "project": {
-      "title": "",
+      "title": "Out Of Water",
       "website": "",
-      "thesis-category": [""],
-      "coverImage": "",
-      "image": [""],
-      "tags": [""],
-      "description": [""],
-      "studio-professor-1": "",
-      "writing-professor-1": "",
-      "studio-professor-2": "",
-      "writing-professor-2": ""
-    }
-  },
-  {
-    "id": 39,
-    "name": "Ting Liu",
-    "profile-pic": "",
-    "social": {
-      "portfolio": "",
-      "facebook": "",
-      "instagram": "",
-      "linkedin": "",
-      "twitter": "",
-      "other": ""
-    },
-    "aboutme": [""],
-    "project": {
-      "title": "",
-      "website": "",
-      "thesis-category": [""],
-      "coverImage": "",
-      "image": [""],
-      "tags": [""],
-      "description": [""],
-      "studio-professor-1": "",
-      "writing-professor-1": "",
-      "studio-professor-2": "",
-      "writing-professor-2": ""
+      "thesis-category": ["Installation"],
+      "coverImage": "coverImage.png",
+      "image": ["1.png"],
+      "tags": ["video", "Installation"],
+      "description": ["I would like to create an experience which combines video and interactive design to create an uncomfortable atmosphere that shows the Asian female's situation in modern society. Through the experience, I hope to specify my idea that the primary task of gender equality in Asia is women's self-awakening."],
+      "studio-professor-1": "Sven Travis",
+      "writing-professor-1": "Louisa Campbell",
+      "studio-professor-2": "Chris Romero",
+      "writing-professor-2": "Ethan Silverman"
     }
   },
   {
